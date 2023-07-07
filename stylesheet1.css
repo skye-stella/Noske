@@ -86,7 +86,7 @@ div.Music2 ul li a {border:solid 1px green;}
     }
     .nav1 li {
         /* float: left; */
-        padding-left: 150px;
+        padding-left: 100px;
     }
     .nav1 a:hover {
         background-color: #ddd;
