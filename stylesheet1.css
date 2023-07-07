@@ -1,0 +1,209 @@
+body {
+    background-color: #EDDDCE;
+    margin: 0;
+    background-repeat: no-repeat;
+    font-family: "Courier New";
+    color: #0a0908;
+    padding: 0;
+}
+
+body .noah p {color:blue;}
+
+p.greenText {color:green!important;}
+
+p {
+    font-size: 15px;
+    color: black;
+}
+/* index start here */
+.header {
+    font-size: 40px;
+    text-align: center;
+}
+/* index ends here */
+/*horizontal nav starts here*/
+.topnav {
+    background-color: #CE8544;
+    overflow: hidden;
+    /* outline: #000000; */
+   }
+   
+   /* Style the links inside the navigation bar */
+   .topnav a {
+    float: left;
+    color: #f2f2f2;
+    
+    text-align: center;
+    padding: 14px 30px;
+    text-decoration: none;
+    font-size: 17px;
+    border-left-color: #000000;
+   }
+   
+   /* Change the color of links on hover */
+   .topnav a:hover {
+    background-color: #EDDDCE;
+    color: #000000;
+   }
+   
+   /* Add a color to the active/current link */
+   .topnav a.active {
+    background-color: #EDDDCE;
+    color: black;
+   }
+.active_nav {
+    background-color: #724620;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+.row:after {
+    content:"";
+    display: table;
+    clear: both;
+}
+.nav1 {
+    position: relative;
+    list-style-type: none;
+    overflow: hidden;
+    margin: 100px;
+    padding: 100px;
+    background-color: #CE8544;
+    border-style: solid;
+}
+div.Music2 ul li a {border:solid 1px green;}
+
+
+    .nav1 a {
+        display: block;
+        color: #000000;
+        text-decoration: none;
+        font-size: 20px;
+        padding: 15px 30px;
+        
+    }
+    .nav1 li {
+        /* float: left; */
+        padding-left: 150px;
+    }
+    .nav1 a:hover {
+        background-color: #ddd;
+        color: #000000;
+       }
+
+/*nav ends here*/
+
+span {
+    font-style: italic;
+}
+
+table {
+    font-size: 15px;
+    color: black;
+}
+.page_heading {
+    font-size: 70px;
+    text-align: center;
+}
+
+.myBody {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    padding: 50px;
+    background-color: #da9d68;
+    text-align: center;
+    font-family: "Courier New", monospace;
+}
+.Music {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    padding-bottom:50px;
+    background-color: #8b7f7f;
+    text-align: center;
+    font-family: "Courier New", monospace;
+}
+.Music2 {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    padding-bottom:50px;
+    background-color: #ffffff;
+    text-align: center;
+    font-family: "Courier New", monospace;
+}
+
+
+.content_heading {
+    font-size: 30px;
+}
+
+.img {
+    display: block;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    height: 500px;
+    object-fit: scale-down;
+}
+
+.content {
+    padding: 10px;
+}
+
+.footer {
+    color: #84b4c8;
+    text-align: center;
+    font-family: "Courier New";
+    width: 100%;
+    bottom: 0;
+}
+
+.bar {
+    color: #CE8544;
+    height: 50px;
+    position: relative;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .orange-bar {
+    background-color: #CE8544;
+    height: 50px;
+  }
+
+  .Title2 {
+    margin-left: 10px;
+  }
+
+  .Btn {
+    padding: 20px;  
+    height: 20px;
+    width: 60px;
+    display: block;
+    text-decoration-color: aqua;
+    background-color: white;
+    border-style: solid;
+    overflow: hidden;
+    font-family: 'Courier New', Courier, monospace
+  }
+ .Margin td {
+    margin-left: 20px; 
+  }
+
+  .Margin td {
+    padding: 10px;
+  }
+  .link {
+    color: rgb(255, 255, 255);
+  }
+  
+
